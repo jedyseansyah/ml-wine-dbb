@@ -18,3 +18,5 @@ The algorithm used in this model is K-Nearest Neighbors. K-Nearest Neighbors (KN
 2. There are 3 features that are highly correlated with the target, namely flavanoids, total phenols, and OD280/OD315 of dilluted wines.
 3. The three correlated features are all negatively correlated, meaning that the higher the feature, the lower the target value (the wine class may change).
 4. The ash feature has a very small correlation, only -0.04. This shows that the ash feature has little effect on the target value.
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email: jedysyah@gmail.com
